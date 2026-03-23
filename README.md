@@ -1,3 +1,4 @@
+<img src="portadagit.png" alt="banner" width="100%" />
 # Hola, soy Oliver 👨‍💻
 
 Desarrollador de Software enfocado en **backend y desarrollo de aplicaciones móviles**, con experiencia construyendo APIs seguras, modelado de bases de datos y despliegue de servicios.
